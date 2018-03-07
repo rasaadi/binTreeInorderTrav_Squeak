@@ -1,0 +1,1 @@
+Object subclass: #Simpleclass	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'cs6688668'!!Simpleclass methodsFor: 'newCat' stamp: 'zs 2/22/2018 08:38'!hello	"comment stating purpose of message"	^'hello'! !
